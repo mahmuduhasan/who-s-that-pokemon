@@ -42,6 +42,7 @@ body {
 #pokemon-img {
   height: 200px;
   /* z-index: 2; */
+  filter: drop-shadow(10px 10px 10px gray);
 }
 
 #generate-button {
